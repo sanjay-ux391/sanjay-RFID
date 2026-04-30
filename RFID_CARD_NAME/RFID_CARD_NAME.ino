@@ -1,4 +1,3 @@
-// Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
 //Store name into RFID Tag
 
 #include <SPI.h>
